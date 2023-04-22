@@ -21,7 +21,7 @@ The main file of this project is `main.ipynb`, which contains the code for impor
 
 1. Clone this repository.
 2. Download the `SpotifyFeatures.csv` dataset from Kaggle and place it in the same folder as the main file.
-3. [Set up](https://developer.spotify.com/documentation/general/guides/app-settings/) a Spotify Developer account, create an application, and obtain your client ID, client secret, and redirect URI.
+3. Set up a Spotify Developer account, create an application, and obtain your client ID, client secret, and redirect URI.
 4. Replace the placeholders in `main.ipynb` with your actual client ID, client secret, and redirect URI.
 5. Replace the playlist name to your's
 6. Install the required libraries using `pip` or `conda`.
