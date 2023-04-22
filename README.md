@@ -1,4 +1,4 @@
-# Spotify Music Recommender System
+# Content-Based Music Recommender System
 
 This project is a content-based music recommender system using Spotify's audio features. The recommender system generates personalized playlists by calculating the similarity between tracks using three different algorithms: *Cosine Similarity*, *Euclidean Distance*, and *Manhattan Distance*.
 
